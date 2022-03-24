@@ -1,0 +1,47 @@
+.DoList{
+    margin: 0 auto;
+    list-style-type: none;
+    font-size: 24px;
+}
+div#first {
+    background-color: #2f4e4f;
+    color:white;
+    text-align: center;
+    padding: 10px;
+    width: 30%;
+    margin: 0 auto;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+input {
+    border: 0;
+    height: 22px;
+    width: 76%;
+    color: #2f4e4f;
+    padding: 10px;
+
+}
+button{
+    height: 42px;
+    border: 0;
+    padding: 13px;
+    width: 20%;
+}
+div#second {
+    background-color: #2f4e4f;
+    padding: 10px;
+    width: 30%;
+    margin: 0 auto;
+
+}
+div#List{
+    background-color: #dedddd;
+    padding: 10px;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.DoList li.done {
+    text-decoration: line-through;
+}
